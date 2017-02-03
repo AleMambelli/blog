@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://alemambelli.github.io/feeling-responsive/sitemap.xml
